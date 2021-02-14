@@ -14,7 +14,6 @@ namespace DataAccess.Concete.EntityFramework
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=BDH-5CG8105D81\SQLEXPRESS;Database=Northwind; Trusted_Connection=true"); //sqlserver kullanacağız.
-
         }
 
         public DbSet<Product> Products { get; set; }
