@@ -1,0 +1,9 @@
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\sozdar.ozcanan\source\repos\MyProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

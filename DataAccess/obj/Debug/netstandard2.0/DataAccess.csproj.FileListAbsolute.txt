@@ -1,0 +1,12 @@
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\sozdar.ozcanan\source\repos\MyProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
